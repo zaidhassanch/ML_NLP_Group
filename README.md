@@ -17,7 +17,7 @@
 | 21 Feburary 2020 |Disentanglement ([Paper1](https://www.aclweb.org/anthology/P19-1602.pdf), [Paper2](https://papers.nips.cc/paper/7757-content-preserving-text-generation-with-attribute-controls.pdf)) |  [Undecided](mailto:undecided@borealisai.com) | University of Waterloo AI lab (DC2306C)|[Slides]
 | 28 Feburary 2020 | Variational Auto-Encoders ([Paper1](https://arxiv.org/abs/1906.02691), [Paper2](https://www.aclweb.org/anthology/C18-1142.pdf), [Paper3](https://arxiv.org/abs/1703.00955)) |  [Kashif Khan](mailto:ka2khan@uwaterloo.ca)  |University of Waterloo AI lab (DC2306C) | [Slides]
 | 6 March 2020 | Graphs ([Paper1](https://www.aclweb.org/anthology/N19-1082.pdf), [Paper2](https://arxiv.org/pdf/1802.07459.pdf), [Paper3](https://www.aclweb.org/anthology/D18-1244.pdf))|  [Zaid Hassan](mailto:zhchaudhry@uwaterloo.ca)  | University of Waterloo  AI lab (DC2306C) | [Slides]
-| 13 March 2020 | Structured Probing ([Paper1](https://www.aclweb.org/anthology/W19-4318.pdf), [Paper2](https://www.aclweb.org/anthology/N19-1419.pdf), [Paper3](http://www.phontron.com/paper/jiang19lpaqa.pdf), [Paper4](https://arxiv.org/pdf/1805.01070.pdf))|  [Ankit Vadehra](https://cs.uwaterloo.ca/~avadehra)  | University of Waterloo  AI lab (DC2306C) | [Slides]
+| 13 March 2020 | Structured Probing ([Paper1](https://www.aclweb.org/anthology/W19-4318.pdf), [Paper2](https://www.aclweb.org/anthology/N19-1419.pdf), [Paper3](http://www.phontron.com/paper/jiang19lpaqa.pdf), [Paper4](https://arxiv.org/pdf/1805.01070.pdf))|  [Undecided](https://cs.uwaterloo.ca/~avadehra)  | University of Waterloo  AI lab (DC2306C) | [Slides]
 
 
 ## Time
